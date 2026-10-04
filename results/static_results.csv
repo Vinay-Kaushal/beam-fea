@@ -1,0 +1,14 @@
+case,quantity,unit,n_elements,fe_value,analytical_value,abs_error,rel_error_pct
+cantilever_tip_load,tip_deflection,mm,1,12.5,12.5,5.329e-15,-4.263e-14
+cantilever_tip_load,tip_deflection,mm,2,12.5,12.5,5.329e-15,-4.263e-14
+cantilever_tip_load,tip_deflection,mm,5,12.5,12.5,2.132e-14,-1.705e-13
+cantilever_tip_load,tip_deflection,mm,10,12.5,12.5,1.638e-11,1.310e-10
+cantilever_tip_load,tip_deflection,mm,20,12.5000000001,12.5,9.348e-11,7.478e-10
+cantilever_tip_load,tip_deflection,mm,50,12.5000000044,12.5,4.390e-09,3.512e-08
+cantilever_tip_load,tip_rotation,rad,10,0.0375000000001,0.0375,5.038e-14,1.343e-10
+cantilever_tip_load,reaction_force,N,10,100,100,8.276e-11,8.276e-11
+cantilever_tip_load,reaction_moment,N*m,10,50.0000000001,50,5.993e-11,1.199e-10
+cantilever_tip_load,root_top_stress,MPa,10,150,150,1.798e-10,1.198e-10
+cantilever_tip_load,midspan_top_stress,MPa,10,75.0000000001,75,1.152e-10,1.536e-10
+cantilever_udl,tip_deflection,mm,10,4.68750000001,4.6875,6.461e-12,1.378e-10
+simply_supported_central_load,midspan_deflection,mm,10,0.78125,0.78125,1.197e-13,1.532e-11
