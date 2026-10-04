@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+*.egg-info/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# ANSYS working files (large binaries; only the CSV and screenshots are tracked)
+*.wbpj
+*_files/
+*.wbpz
+
+# Note: results/ is intentionally tracked so the README figures render on GitHub.
